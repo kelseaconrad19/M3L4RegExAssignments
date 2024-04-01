@@ -20,7 +20,7 @@ Task 2:
 
 
 def standardize_dates(log):
-    log = re.sub(r"(\d{2})-(\d{2})-(\d{4})", r"\3-\2-\1", log)
+    log = re.sub(r"(\d{2})-(\d{2})-(\d{4})", r"\3-\1-\2", log)
     return log
 
 

@@ -1,31 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="255e355a-bdbe-4a8d-91d6-00bdc7187a00" name="Changes" comment="" />
+    <list default="true" id="255e355a-bdbe-4a8d-91d6-00bdc7187a00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1PythonRegexMastery.py" beforeDir="false" afterPath="$PROJECT_DIR$/1PythonRegexMastery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2RegexDeepDive.py" beforeDir="false" afterPath="$PROJECT_DIR$/2RegexDeepDive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AdvTextProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/3AdvTextProcessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4EnhancingE-CommerceOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/4EnhancingE-CommerceOperations.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eHcI57VTEGJHPqcLgkzMrv3pDt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1CodeCorrection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1PythonRegexMastery.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2RegexDeepDive.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3AdvTextProcessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4EnhancingE-CommerceOperations.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
